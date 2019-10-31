@@ -15,3 +15,4 @@ resp = requests.post("http://localhost:8866/api/predict",
                      files={"file": open(img_paht,'rb')})
 
 print(resp.text)
+# changed the files
