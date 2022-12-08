@@ -2,7 +2,7 @@ absl-py==0.6.1
 APScheduler==3.6.1
 asn1crypto==0.24.0
 astor==0.7.1
-certifi==2018.10.15
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
